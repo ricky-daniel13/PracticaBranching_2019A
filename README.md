@@ -2,4 +2,7 @@
 Hola mundo! 
 Paula Sofia Ramirez Angel
 Diego Alejandro Rubio Contreras
-Parte con David
+David Leonardo González Jiménez
+Julieta González Renteria
+Daniel Martínez González
+
