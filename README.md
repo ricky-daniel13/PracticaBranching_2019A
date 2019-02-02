@@ -1,12 +1,9 @@
 # PracticaBranching_2019A
 Hola mundo! 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Axel Emmanuel Herrera Martinez
-=======
-Jose Alejandro Rocha Gallegos
->>>>>>> origin/Alejandro_rama
-=======
 
+Axel Emmanuel Herrera Martinez
+Jose Alejandro Rocha Gallegos
 Joaquin Andre Chavez Rojo :c
->>>>>>> origin/Joaquin_Rama
+Daniel Alberto Diaz Gonzalez
+Ezequiel de la torre
+
