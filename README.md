@@ -4,6 +4,7 @@
 
 
 
+
 Ricardo Daniel Garibaldi Oliva
 
 Kevin Kaleb Jimenez Orozco
@@ -18,4 +19,20 @@ Leslie Jocelyn Morales Mendoza
 
 
 Gustavo Padilla Valdez(Mi papá es mi tio) 
+
+
+
+
+Jair Orozco Dominguez
+
+
+
+Hector Eduardo Sanchez Gutierrez
+
+
+
+
+
+
+
 
