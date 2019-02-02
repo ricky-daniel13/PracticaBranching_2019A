@@ -1,5 +1,7 @@
 # PracticaBranching_2019A
-Hola mundo! 
+
+
+
 
 
 
@@ -29,6 +31,24 @@ Ezequiel de la torre
 Javier Alejandro Ramírez (Messi)
 
 Sujey Regina Galvan Alonso
+
+
+
+Gustavo Padilla Valdez(Mi papá es mi tio) 
+
+
+
+
+Jair Orozco Dominguez
+
+
+
+Hector Eduardo Sanchez Gutierrez
+
+
+
+
+
 
 
 
