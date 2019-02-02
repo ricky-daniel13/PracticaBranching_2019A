@@ -10,3 +10,6 @@ Hector Eduardo Sanchez Gutierrez
 Que pedo compa lml
 
 este es el nuevo compa xd 
+
+
+que pedo wey como estas?
