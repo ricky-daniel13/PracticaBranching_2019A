@@ -1,12 +1,10 @@
 # PracticaBranching_2019A
 
 
+Ricardo Daniel Garibaldi Oliva (Jefe supremo de las Fuerzas Armadas)
 
 
 
-
-
-Ricardo Daniel Garibaldi Oliva
 
 Kevin Kaleb Jimenez Orozco
 
@@ -32,23 +30,15 @@ Javier Alejandro Ramírez (Messi)
 
 Sujey Regina Galvan Alonso
 
-
-
 Gustavo Padilla Valdez(Mi papá es mi tio) 
-
-
-
 
 Jair Orozco Dominguez
 
-
-
 Hector Eduardo Sanchez Gutierrez
 
+Jerry Sanchez Rios
 
+Erick Alejandro De Lira Rodriguez
 
-
-
-
-
+Edwin Nuñez Rocha
 
