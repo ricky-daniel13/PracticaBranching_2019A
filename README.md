@@ -1,4 +1,5 @@
 # PracticaBranching_2019A
+<<<<<<< HEAD
 
 
 
@@ -57,5 +58,11 @@ Pablo Sanchez Garcia
 Antoino Leaños
 Alfred Nieves
 Pedro  lopez Sierra
-
+Brian Aldair Gonzalez Molina
+Diego Ivan Becerra Gonzalez
+Kevin Ivan Sanchez Vargas
+Francisco Isaac Zaragoza Delgado :D
+Ricardo Rios Soto
+Anthony Esteven Sandoval Marquez 
+Juan Jose Salazar Villegas
 
